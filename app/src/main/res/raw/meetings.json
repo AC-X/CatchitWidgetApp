@@ -1,0 +1,110 @@
+{
+  "meetings": [
+    {
+      "name": "Ted Smith",
+      "image" : "https://d3rukkqplfq99n.cloudfront.net/images/profile.png",
+      "url": "https://breezemaxweb.com/",
+      "company": "BreezeMaxWeb",
+      "email": "tsmith@breezemax.com",
+      "metdate": "2017-07-31",
+      "meetingdate": "2017-09-27",
+      "meetingtime": "12:50:00",
+      "meetingabout" : [ "Future-proof you better eat a reality sandwich before you walk back in that boardroom. Q1 what's the status on the deliverables for eow?, for diversify kpis. Value prop due diligence. This is meaningless in this space going forward, and timeframe, so driving the initiative forward. Bells and whistles. Reach out run it up the flagpole, ping the boss and circle back so root-and-branch review, for upsell not enough bandwidth, nor get buy-in.", "Follow Up" ]
+    },
+
+    {
+      "name": "Joe Smith",
+      "image" : "https://d3rukkqplfq99n.cloudfront.net/images/profile.png",
+      "url": "https://breezemaxweb.com/",
+      "company": "BreezeMaxWeb2",
+      "email": "jsmith@breezemax.com",
+      "metdate": "2017-07-31",
+      "meetingdate": "2017-09-27",
+      "meetingtime": "13:30:00",
+      "meetingabout" : [ "Future-proof you better eat a reality sandwich before you walk back in that boardroom. Q1 what's the status on the deliverables for eow?, for diversify kpis. Value prop due diligence. This is meaningless in this space going forward, and timeframe, so driving the initiative forward. Bells and whistles. Reach out run it up the flagpole, ping the boss and circle back so root-and-branch review, for upsell not enough bandwidth, nor get buy-in.", "Follow Up" ]
+    },
+
+    {
+      "name": "Bill Smith",
+      "image" : "https://d3rukkqplfq99n.cloudfront.net/images/profile.png",
+      "url": "https://breezemaxweb.com/",
+      "company": "BreezeMaxWeb3",
+      "email": "bsmith@breezemax.com",
+      "metdate": "2017-07-31",
+      "meetingdate": "2017-09-27",
+      "meetingtime": "14:30:00",
+      "meetingabout" : [ "Future-proof you better eat a reality sandwich before you walk back in that boardroom. Q1 what's the status on the deliverables for eow?, for diversify kpis. Value prop due diligence. This is meaningless in this space going forward, and timeframe, so driving the initiative forward. Bells and whistles. Reach out run it up the flagpole, ping the boss and circle back so root-and-branch review, for upsell not enough bandwidth, nor get buy-in.","Follow Up" ]
+    },
+
+    {
+      "name": "Hue Smith",
+      "image" : "https://d3rukkqplfq99n.cloudfront.net/images/profile.png",
+      "url": "https://breezemaxweb.com/",
+      "company": "BreezeMaxWeb4",
+      "email": "hsmith@breezemax.com",
+      "metdate": "2017-08-15",
+      "meetingdate": "2017-08-18",
+      "meetingtime": "18:30:00",
+      "meetingabout" : [ "Future-proof you better eat a reality sandwich before you walk back in that boardroom. Q1 what's the status on the deliverables for eow?, for diversify kpis. Value prop due diligence. This is meaningless in this space going forward, and timeframe, so driving the initiative forward. Bells and whistles. Reach out run it up the flagpole, ping the boss and circle back so root-and-branch review, for upsell not enough bandwidth, nor get buy-in.", "Follow Up" ]
+    },
+
+    {
+      "name": "John Smith",
+      "image" : "https://d3rukkqplfq99n.cloudfront.net/images/profile.png",
+      "url": "https://breezemaxweb.com/",
+      "company": "BreezeMaxWeb5",
+      "email": "jsmith@breezemax.com",
+      "metdate": "2017-08-15",
+      "meetingdate": "2017-08-25",
+      "meetingtime": "11:45:00",
+      "meetingabout" : [ "Future-proof you better eat a reality sandwich before you walk back in that boardroom. Q1 what's the status on the deliverables for eow?, for diversify kpis. Value prop due diligence. This is meaningless in this space going forward, and timeframe, so driving the initiative forward. Bells and whistles. Reach out run it up the flagpole, ping the boss and circle back so root-and-branch review, for upsell not enough bandwidth, nor get buy-in.", "Follow Up" ]
+    },
+
+    {
+      "name": "Ryan Smith",
+      "image" : "https://d3rukkqplfq99n.cloudfront.net/images/profile.png",
+      "url": "https://breezemaxweb.com/",
+      "company": "BreezeMaxWeb6",
+      "email": "rsmith@breezemax.com",
+      "metdate": "2017-08-15",
+      "meetingdate": "2017-08-24",
+      "meetingtime": "12:00:00",
+      "meetingabout" : [ "Future-proof you better eat a reality sandwich before you walk back in that boardroom. Q1 what's the status on the deliverables for eow?, for diversify kpis. Value prop due diligence. This is meaningless in this space going forward, and timeframe, so driving the initiative forward. Bells and whistles. Reach out run it up the flagpole, ping the boss and circle back so root-and-branch review, for upsell not enough bandwidth, nor get buy-in.", "Follow Up" ]
+    },
+    {
+      "name": "Sam Smith",
+      "image" : "https://d3rukkqplfq99n.cloudfront.net/images/profile.png",
+      "url": "https://breezemaxweb.com/",
+      "company": "BreezeMaxWeb7",
+      "email": "Ssmith@breezemax.com",
+      "metdate": "2017-08-15",
+      "meetingdate": "2017-08-24",
+      "meetingtime": "13:45:00",
+      "meetingabout" : [ "Future-proof you better eat a reality sandwich before you walk back in that boardroom. Q1 what's the status on the deliverables for eow?, for diversify kpis. Value prop due diligence. This is meaningless in this space going forward, and timeframe, so driving the initiative forward. Bells and whistles. Reach out run it up the flagpole, ping the boss and circle back so root-and-branch review, for upsell not enough bandwidth, nor get buy-in.", "Follow Up" ]
+    },
+
+    {
+      "name": "Agent Smith",
+      "image" : "https://d3rukkqplfq99n.cloudfront.net/images/profile.png",
+      "url": "https://breezemaxweb.com/",
+      "company": "BreezeMaxWeb8",
+      "email": "asmith@breezemax.com",
+      "metdate": "2017-08-01",
+      "meetingdate": "2017-08-29",
+      "meetingtime": "12:20:00",
+      "meetingabout" : [ "Future-proof you better eat a reality sandwich before you walk back in that boardroom. Q1 what's the status on the deliverables for eow?, for diversify kpis. Value prop due diligence. This is meaningless in this space going forward, and timeframe, so driving the initiative forward. Bells and whistles. Reach out run it up the flagpole, ping the boss and circle back so root-and-branch review, for upsell not enough bandwidth, nor get buy-in.", "Follow Up"  ]
+    },
+
+    {
+      "name": "Benjamin Dover",
+      "image" : "https://d3rukkqplfq99n.cloudfront.net/images/profile.png",
+      "url": "https://breezemaxweb.com/",
+      "company": "BreezeMaxWeb9",
+      "email": "bendover@breezemax.com",
+      "metdate": "2017-08-01",
+      "meetingdate": "2017-08-24",
+      "meetingtime": "11:30:00",
+      "meetingabout" : [ "Future-proof you better eat a reality sandwich before you walk back in that boardroom. Q1 what's the status on the deliverables for eow?, for diversify kpis. Value prop due diligence. This is meaningless in this space going forward, and timeframe, so driving the initiative forward. Bells and whistles. Reach out run it up the flagpole, ping the boss and circle back so root-and-branch review, for upsell not enough bandwidth, nor get buy-in.", "Follow Up"  ]
+    }
+  ]
+}

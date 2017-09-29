@@ -1,0 +1,10 @@
+<!--REQUIRED FOR WIDGET INITIAL SETUP SPECS -->
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:minWidth="200dip"
+    android:minHeight="200dip"
+    android:updatePeriodMillis="7200000"
+    android:initialLayout="@layout/widget"
+    android:autoAdvanceViewId="@+id/words"
+    android:previewImage="@drawable/preview"
+    android:resizeMode="horizontal|vertical"
+    />

@@ -1,0 +1,69 @@
+{
+  "nextstep": [
+    {
+      "id": "1",
+      "companyid": "2",
+      "subject" : "First Meeting",
+      "createdate": "2017-08-27",
+      "meetingtype": "person",
+      "whendate": "2017-09-30",
+      "whentime": "20:40:00",
+      "notifyme": "true"
+    },
+
+    {
+    "id": "2",
+    "companyid": "3",
+    "subject" : "Proposal Meeting with John",
+    "createdate": "2017-08-28",
+    "meetingtype": "person",
+    "whendate": "2017-09-28",
+    "whentime": "13:30:00",
+    "notifyme": "true"
+    },
+
+    {
+      "id": "3",
+      "companyid": "4",
+      "subject" : "Signing Meeting",
+      "createdate": "2017-07-01",
+      "meetingtype": "person",
+      "whendate": "2017-09-28",
+      "whentime": "12:15:00",
+      "notifyme": "false"
+    },
+
+    {
+      "id": "4",
+      "companyid": "2",
+      "subject" : "Follow up with Mike",
+      "createdate": "2017-07-01",
+      "meetingtype": "person",
+      "whendate": "2017-09-28",
+      "whentime": "18:00:00",
+      "notifyme": "true"
+    },
+
+    {
+      "id": "5",
+      "companyid": "3",
+      "subject" : "Check In with Sam",
+      "createdate": "2017-07-01",
+      "meetingtype": "call",
+      "whendate": "2017-09-28",
+      "whentime": "17:10:00",
+      "notifyme": "true"
+    },
+
+    {
+      "id": "6",
+      "companyid": "4",
+      "subject" : "Discuss Final timeline details",
+      "createdate": "2017-07-01",
+      "meetingtype": "person",
+      "whendate": "2017-09-30",
+      "whentime": "14:40:00",
+      "notifyme": "false"
+    }
+    ]
+}
